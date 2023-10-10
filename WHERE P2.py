@@ -9,5 +9,4 @@ xx.execute(yy)
 
 zz = xx.fetchall()
 for i in zz:
-    print(i)
-    
+    print(i)   

@@ -12,4 +12,3 @@ for i in zz:
     print(i)
 
 # HERE WE STARTED FROM ROW POSITION 7 AND RETURN 4 RECORDS . 
-   

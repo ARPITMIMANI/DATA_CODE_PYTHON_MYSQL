@@ -16,4 +16,4 @@ for i in zz:
 # CODE 02 
 
 for j in yy:
-     print(j)      
+     print(j)

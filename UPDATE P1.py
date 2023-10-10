@@ -12,4 +12,3 @@ yy.execute(zz)
 # ww.commit() IS USED TO DELETE PERMANENTLY FROM THE TABLE .
 
 print ( yy.rowcount , " RECORDS UPDATED " )
- 
