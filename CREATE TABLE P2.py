@@ -8,4 +8,3 @@ yy.execute ( "show tables" )
 
 for i in yy:
     print(i)
-

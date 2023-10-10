@@ -10,8 +10,3 @@ yy = " drop table cus_table "
 xx.execute(yy)
 
 # ww.commit() IS USED TO DELETE PERMANENTLY FROM THE TABLE .
-
-
-
-
-

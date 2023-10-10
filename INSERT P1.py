@@ -13,4 +13,3 @@ xx.commit()
 print ( yy.rowcount , "RECORD INSERTED" )
 
 # commit() IS VERY IMPORTANT FOR SAVING THE CHANGES PERMANENTLY .
-

@@ -7,7 +7,4 @@ xx = mysql.connector.connect ( host="localhost" , user="root" , password="SQLSER
 
 yy = xx.cursor()
 yy.execute ( "create database data_code_db" )
-
-
-
-    
+   

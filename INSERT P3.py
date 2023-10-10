@@ -12,4 +12,3 @@ val3 =  ( "ZAC" , "ITALY" )
 yy.execute ( sql , val3 )
 xx.commit()
 print ( yy.lastrowid , "WAS LAST ROW" )
-
